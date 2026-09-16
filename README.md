@@ -52,8 +52,6 @@
 
 有想法、有问题，或者只是想打个招呼，都欢迎联系。
 
-[个人网站](https://example.com) · [GitHub](https://github.com/YOUR_USERNAME) · [邮件](mailto:hello@example.com)
-
 <br />
 
 **Thanks for stopping by! ✨**
