@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm su2vc
+# 🧙‍♂️ Hi, I'm su2vc
 
 <br />
 
